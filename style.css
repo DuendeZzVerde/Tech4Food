@@ -1,0 +1,20 @@
+.marca{
+    background-color: black;
+    padding: 1px;
+}
+
+.titulo::first-letter{
+    color: red;
+    font-size: 124%;
+}
+.card:hover{
+    scale: 1.1;
+    cursor: pointer;
+    display: flex;
+}
+
+.botao:hover{
+    scale: 1.1;
+    cursor: pointer;
+}
+
